@@ -5,7 +5,7 @@ const config = {
     interstellar: "1212",
     JJ: "Pro",
     Kharl: "Conexion",
-    Jared: "Meisjared",
+    Jared: "Meisjarede",
     Geo: "God",
     Legend: "123",
     Eddie: "Crafter",
