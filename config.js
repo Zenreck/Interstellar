@@ -6,7 +6,7 @@ const config = {
     JJ: "pro",
     Kharl: "Conexion",
     Jared: "Meisjared",
-    Geo: "123",
+    Geo: "God",
     Eddie: "Crafter",
     jamaal_2343: "12534089",
     hamburger: "food123",
