@@ -3,7 +3,7 @@ const config = {
   users: {
     // You can add multiple users by doing username: 'password'.
     interstellar: "1212",
-    JJ: "im bad",
+    JJ: "pro",
     Kharl: "Conexion",
     Jared: "Meisjared",
     Geo: "God",
@@ -15,6 +15,7 @@ const config = {
     Ivan: "kaizen",
     Joshua: "12345",
     Guest: "abc123",
+    Jvonc: "currygoat",
     
   },
 };
