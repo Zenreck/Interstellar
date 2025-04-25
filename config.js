@@ -15,7 +15,7 @@ const config = {
     Ivan: "kaizen",
     Joshua: "12345",
     Guest: "abc123",
-    Jvonc: "currygoat",
+    Jvon: "lebron is died",
     
   },
 };
